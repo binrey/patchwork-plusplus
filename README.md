@@ -1,4 +1,4 @@
-# Python-визуализация Patchwork++ на примере записи облака точек velodyne (PCAP-файл)
+# Визуализация Patchwork++ на примере записи облака точек velodyne (файл .pcap)
 
 <p align="center"><img src=pictures/pcap-demo.gif alt="animated" /></p>
 
