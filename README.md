@@ -4,7 +4,7 @@
 
 * A fast, robust, and self-adaptive **ground segmentation algorithm** on 3D point cloud.
 
-<p align="center"><img src=pictures/patchwork++.gif alt="animated" /></p>
+<p align="center"><img src=pictures/pcap-demo.gif alt="animated" /></p>
 
 * An extension of [Patchwork][patchworklink] (RA-L'21 with IROS'21).
 * Please refer our [paper][patchworkppIEEElink] for detailed explanantions and experimental results!
